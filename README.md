@@ -1,4 +1,3 @@
-# MLSA-YE-Assignment
 # Tamiko Web Scraper
 
 ![Tamiko Web Scraper](https://img.shields.io/badge/Streamlit-App-blue)  
